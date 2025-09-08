@@ -1,5 +1,5 @@
 print("hello")
 print("hi ! hru")
-print("fine ! wbu")
-print("good, tyfa.. bye!")
+print("bad ! wbu")
+print("worst, tyfa.. bye!")
 print("byeee")
