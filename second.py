@@ -1,5 +1,0 @@
-print("- hello")
-print("- hi ! hru")
-print("- great ! wbu")
-print("- good, ty for asking.. gtg!")
-print("- bye")
