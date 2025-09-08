@@ -1,0 +1,5 @@
+print("- hello")
+print("- hi ! hru")
+print("- fine ! wbu")
+print("- good, tyfa.. bye!")
+print("- byeee")
